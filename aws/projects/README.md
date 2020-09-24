@@ -1,5 +1,2 @@
-# AWS Projects
-
-List of projects within AWS workshop as follows;
-
-
+# MyProjects
+I put here all my project experiences
